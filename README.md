@@ -3,7 +3,6 @@ The project is prepared for deployment to [Vercel](https://vercel.com/) and [Ren
 Configured to use [Typescipt](https://www.typescriptlang.org/).
 
 ## Front-end stack
-
 - [SvelteJS](https://svelte.dev/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [FSD architecture](https://feature-sliced.design/ru/docs/get-started)
