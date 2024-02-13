@@ -24,7 +24,7 @@ Configured to use [Typescipt](https://www.typescriptlang.org/).
 
 ```bash
 # clone repository and install packages
-git clone https://github.com/oleg-darkdev/svelte-strapi-restaurants-list;
+git clone https://github.com/Mitryou/roma-against-genocide;
 ```
 
 ```bash
